@@ -21,7 +21,7 @@ Features:
 - Fetch data in server react components by directly accessing database
 - Handle relations between Server and Child components!
 - Reuseable layouts
-- Folder structure in Next 13 App Router
+- Folder structure in Next 14 App Router
 - Beutiful Landing Page with Testimonials
 
 ### Prerequisites
@@ -31,7 +31,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/nayak-nirmalya/ai-saas.git
+git clone https://github.com/GOATNINJA10/ContentFuse.git
 ```
 
 ### Run with yarn zero install
